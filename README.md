@@ -9,7 +9,8 @@ Java ile geliştirilen Uç Hezarfen.
 <b> Kullanılan Teknolojiler: </b>
 
 Android Studio  ile geliştirilmiştir.
-Arayüz Android Studio Layout kullanılarak geliştirilmiştir.
+
+Arayüz Libgdx Kütüphanesi kullanılarak geliştirilmiştir.
 
 
 <b>Oyun içinden Görüntüler</b>
