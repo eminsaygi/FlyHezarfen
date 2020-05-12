@@ -8,25 +8,12 @@ Android Studio  ile geliştirilmiştir.
 Arayüz Android Studio Layout kullanılarak geliştirilmiştir.
 
 
-<b>Açılış ve Oyun hakkında bilgi</b>
-
-<img src="https://github.com/eminsaygi/MayinTarlasi/blob/master/images/Açllış.PNG"></a>
-
-
 <b>Oyun içinden Görüntüler</b>
 
-
-<img src="https://github.com/eminsaygi/MayinTarlasi/blob/master/images/küçük%20resim.PNG"></a>
-
-<img src="https://github.com/eminsaygi/MayinTarlasi/blob/master/images/geliştirici.PNG"></a>
-
-<img src="https://github.com/eminsaygi/MayinTarlasi/blob/master/images/büyük.PNG"></a>
+<img src="https://github.com/eminsaygi/FlyHezarfen/blob/master/images/baglangic.png"></a>
 
 
+<img src="https://github.com/eminsaygi/FlyHezarfen/blob/master/images/oynanıs.png"></a>
 
-<b>Menü Ve Özelleştirme </b>
 
-
-<img src="https://github.com/eminsaygi/MayinTarlasi/blob/master/images/menü.PNG"></a>
-
-<img src="https://github.com/eminsaygi/MayinTarlasi/blob/master/images/özelleştir.PNG"></a>
+<img src="https://github.com/eminsaygi/FlyHezarfen/blob/master/images/oyunBitti.png"></a>
